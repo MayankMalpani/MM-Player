@@ -1,6 +1,6 @@
-# Netflix: UI Clone with React Native / Expo
+# MM Player: UI Clone with React Native / Expo
 
-web demo: [Expo Netflix](https://expo-netflix.vercel.app)
+web demo:(https://expo-netflix.vercel.app)
 
 
 

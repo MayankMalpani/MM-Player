@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Expo Netflix",
+    "name": "Expo Netflix",      
     "description": "Netflix: UI Clone with React Native & Expo",
     "scheme": "netflixclone",
     "slug": "netflixclone",
